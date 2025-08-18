@@ -1,6 +1,6 @@
 # Trident Marketing Website
 
-A modern, responsive single-page website for Trident Marketing, optimized for Vercel deployment.
+A modern, responsive single-page website for Trident Marketing, optimized for GitHub Pages deployment.
 
 ## Features
 
@@ -51,24 +51,6 @@ A modern, responsive single-page website for Trident Marketing, optimized for Ve
 
 3. **Your site will be available at**:
    `https://YOUR_USERNAME.github.io/REPOSITORY_NAME/`
-
-### Alternative: Deploy to Vercel
-
-1. **Install Vercel CLI** (optional):
-   ```bash
-   npm i -g vercel
-   ```
-
-2. **Deploy via Vercel Dashboard**:
-   - Go to [vercel.com](https://vercel.com)
-   - Create a new project
-   - Import your GitHub repository or upload files
-   - Vercel will automatically detect the static site configuration
-
-3. **Deploy via CLI**:
-   ```bash
-   vercel
-   ```
 
 ## Customization
 
