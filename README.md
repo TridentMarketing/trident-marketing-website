@@ -32,7 +32,27 @@ A modern, responsive single-page website for Trident Marketing, optimized for Ve
 
 ## Deployment
 
-### Deploy to Vercel
+### Deploy to GitHub Pages
+
+1. **Push to GitHub**:
+   ```bash
+   git add .
+   git commit -m "Update website"
+   git push origin main
+   ```
+
+2. **Enable GitHub Pages**:
+   - Go to your GitHub repository
+   - Click "Settings" tab
+   - Scroll down to "Pages" section
+   - Under "Source", select "Deploy from a branch"
+   - Choose "main" branch and "/ (root)" folder
+   - Click "Save"
+
+3. **Your site will be available at**:
+   `https://YOUR_USERNAME.github.io/REPOSITORY_NAME/`
+
+### Alternative: Deploy to Vercel
 
 1. **Install Vercel CLI** (optional):
    ```bash
@@ -49,12 +69,6 @@ A modern, responsive single-page website for Trident Marketing, optimized for Ve
    ```bash
    vercel
    ```
-
-### Manual Deployment
-
-1. Push your code to a GitHub repository
-2. Connect your repository to Vercel
-3. Vercel will automatically build and deploy your site
 
 ## Customization
 
