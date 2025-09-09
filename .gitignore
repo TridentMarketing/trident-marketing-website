@@ -29,3 +29,6 @@ coverage/
 # Temporary folders
 tmp/
 temp/
+
+# Data files
+*.xlsx
